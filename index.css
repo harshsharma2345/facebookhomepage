@@ -1,0 +1,83 @@
+body{
+    background-color: #f0f2f5;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;
+}
+
+#fbtext h1{
+    font-size: 60px;
+    color: #1877f2;
+    padding: 0%;
+    
+}
+
+
+#fbtext h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    padding: 0%;
+    position: relative;
+    bottom: 30px;
+}
+#fbtext {
+    width: 600px;
+    position: relative;
+    left: 440px;
+    top: 200px;
+}
+#login{
+    position: relative;
+    left: 1100px;
+    bottom: 60px;
+    width: 396px;
+    height: 370px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius:8px;
+}
+input{  
+    position: relative;
+    left:13px;
+    top: 30px;
+    width: 330px;
+    padding: 14px 16px;
+    font-size: 20px;
+    border: 0.1px solid lightgray;
+    border-radius: 6px;
+
+}
+#button{
+    position: relative;
+    top: 6px;
+    left: 15px;
+    text-align: center;
+    height: 50px;
+    width: 365px;
+    background-color: #1877f2;
+    border-radius: 6px;
+
+}
+h6{
+    position: relative;
+    top: 15px;
+    color: white;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;
+
+    font-size: 20px;
+    
+}
+a{
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    left: 118px;
+}
+#signup{
+    position: relative;
+    top: -22px;
+    left: 68px;
+    text-align: center;
+    height: 54px;
+    width: 253px;
+    background-color: #42b72a;
+    border-radius: 6px;
+}
